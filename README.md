@@ -1,2 +1,2 @@
-# hello-wordl
+# hello-world
 first project GitHub
